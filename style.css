@@ -42,7 +42,7 @@ img {
 
 footer ul{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 footer img{
