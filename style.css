@@ -1,0 +1,51 @@
+body {
+  color: #333;
+  background-color: #fff;
+  min-height: 100%;
+  margin:10% auto;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  flex: 1;
+  width: 30%;
+  border: #333;
+  border-width: 10px;
+}
+
+a {
+  text-decoration:none;
+
+}
+
+nav ul {
+  text-align: right;
+}
+
+nav li {
+  display: inline-block;
+}
+
+ul {
+  padding: 0%;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+footer ul{
+  display: flex;
+  justify-content: center;
+}
+
+footer img{
+  width: 50px;
+  height: 50px;
+}
