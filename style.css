@@ -7,18 +7,12 @@ body {
 	font-size: 14px;
 	line-height: 20px;
 	flex: 1;
-	width: 30%;
-	border: #333;
-	border-width: 10px;
+	width: 80%;
+	text-align: center;
 }
 
 a {
 	text-decoration: none;
-
-}
-
-nav ul {
-	text-align: right;
 }
 
 nav li {
@@ -26,10 +20,7 @@ nav li {
 }
 
 ul {
-	padding: 0%;
-}
-
-li {
+	display: inline-block;	
 	list-style-type: none;
 	text-align: left;
 }
@@ -40,9 +31,12 @@ img {
 	height: 120px;
 }
 
+footer {
+	display: inline-block;
+}
+
 footer ul {
 	display: flex;
-	justify-content: space-around;
 }
 
 footer img {
