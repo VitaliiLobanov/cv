@@ -20,7 +20,7 @@ nav li {
 }
 
 ul {
-	display: inline-block;	
+	display: inline-block;
 	list-style-type: none;
 	text-align: left;
 }
@@ -42,4 +42,9 @@ footer ul {
 footer img {
 	width: 50px;
 	height: 50px;
+}
+
+footer img:hover {
+	width: 70px;
+	height: 70px;
 }
